@@ -17,7 +17,7 @@
 
 int main()
 {
-	std::cout << "hello world" << std::endl;
+	std::cout << "hello world" << "ha ha foobar" << std::endl;
 	system("pause");
 	return 1;
 }
